@@ -6,7 +6,7 @@ school：Jiangnan University
 
 Profession: CS1703
 
-habit: code movie.etc
+habit: code movie (不喜欢 唱、跳、rap、篮球)...
 
 # The meaning of '2Mw'
 反过来是 WZM，是我非常喜欢的一个女生名字缩写,特别喜欢。然而她在**2018年12月7日23时37分**宣布脱单。:cry:
