@@ -4,7 +4,7 @@
 
 school：Jiangnan University
 
-Profession: CS1703
+Profession: 计算机系
 
 habit: code movie (不喜欢 唱、跳、rap、篮球)...
 
