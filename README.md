@@ -1,5 +1,7 @@
 # Welcome to 2Mw pages
 
+[点击这个去我的网站](https://2Mw.github.io)
+
 # Brief introduce
 
 school：Jiangnan University
